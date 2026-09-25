@@ -78,8 +78,6 @@ chart — e.g. review length, thumbs-up count, specific TF-IDF terms, app catego
   dataset), suggesting app-specific rather than category-wide retention interventions.
 - Review-based signals are available the same day a user is frustrated, well before that shows up in
   transactional churn data — making this a genuinely leading, not lagging, indicator.
-- {fill in the reply-effectiveness finding once run: do reviews with a developer reply show weaker
-  churn signal than similar reviews without one?}
 
 ## Repository Structure
 
