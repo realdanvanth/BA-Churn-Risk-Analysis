@@ -61,8 +61,6 @@ Supplementary methods:
 
 ## Key Results
 
-*(fill in with your final corrected-model run before submission — see `analysis.ipynb`, Section 5.3b)*
-
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
 |---|---|---|---|---|---|
 | Logistic Regression (corrected) | 0.94 | 0.71 | 0.93 | 0.81 | 0.978 |
