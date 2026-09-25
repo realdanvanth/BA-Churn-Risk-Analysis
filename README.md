@@ -65,8 +65,8 @@ Supplementary methods:
 
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
 |---|---|---|---|---|---|
-| Logistic Regression (corrected) | {fill in} | {fill in} | {fill in} | {fill in} | {fill in} |
-| Random Forest (corrected) | {fill in} | {fill in} | {fill in} | {fill in} | {fill in} |
+| Logistic Regression (corrected) | 0.94 | 0.71 | 0.93 | 0.81 | 0.978 |
+| Random Forest (corrected) | 0.90 | 0.62 | 0.84 | 0.71 | 0.954 |
 
 **Top predictive signals (Random Forest, corrected model):** {fill in from the feature importance
 chart — e.g. review length, thumbs-up count, specific TF-IDF terms, app category}
